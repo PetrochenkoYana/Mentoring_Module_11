@@ -1,0 +1,130 @@
+C:\Users\Yana_Petrachenka\Documents\Visual Studio 2015\Projects\LoggingAnDMonitoring\Task\MvcMusicStore\bin\MvcMusicStore.dll.config
+C:\Users\Yana_Petrachenka\Documents\Visual Studio 2015\Projects\LoggingAnDMonitoring\Task\MvcMusicStore\bin\MvcMusicStore.dll
+C:\Users\Yana_Petrachenka\Documents\Visual Studio 2015\Projects\LoggingAnDMonitoring\Task\MvcMusicStore\bin\MvcMusicStore.pdb
+C:\Users\Yana_Petrachenka\Documents\Visual Studio 2015\Projects\LoggingAnDMonitoring\Task\MvcMusicStore\bin\Antlr3.Runtime.dll
+C:\Users\Yana_Petrachenka\Documents\Visual Studio 2015\Projects\LoggingAnDMonitoring\Task\MvcMusicStore\bin\EntityFramework.dll
+C:\Users\Yana_Petrachenka\Documents\Visual Studio 2015\Projects\LoggingAnDMonitoring\Task\MvcMusicStore\bin\EntityFramework.SqlServer.dll
+C:\Users\Yana_Petrachenka\Documents\Visual Studio 2015\Projects\LoggingAnDMonitoring\Task\MvcMusicStore\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Yana_Petrachenka\Documents\Visual Studio 2015\Projects\LoggingAnDMonitoring\Task\MvcMusicStore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Yana_Petrachenka\Documents\Visual Studio 2015\Projects\LoggingAnDMonitoring\Task\MvcMusicStore\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Yana_Petrachenka\Documents\Visual Studio 2015\Projects\LoggingAnDMonitoring\Task\MvcMusicStore\bin\Microsoft.Owin.dll
+C:\Users\Yana_Petrachenka\Documents\Visual Studio 2015\Projects\LoggingAnDMonitoring\Task\MvcMusicStore\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Yana_Petrachenka\Documents\Visual Studio 2015\Projects\LoggingAnDMonitoring\Task\MvcMusicStore\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Yana_Petrachenka\Documents\Visual Studio 2015\Projects\LoggingAnDMonitoring\Task\MvcMusicStore\bin\Microsoft.Owin.Security.dll
+C:\Users\Yana_Petrachenka\Documents\Visual Studio 2015\Projects\LoggingAnDMonitoring\Task\MvcMusicStore\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Yana_Petrachenka\Documents\Visual Studio 2015\Projects\LoggingAnDMonitoring\Task\MvcMusicStore\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Yana_Petrachenka\Documents\Visual Studio 2015\Projects\LoggingAnDMonitoring\Task\MvcMusicStore\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Yana_Petrachenka\Documents\Visual Studio 2015\Projects\LoggingAnDMonitoring\Task\MvcMusicStore\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Yana_Petrachenka\Documents\Visual Studio 2015\Projects\LoggingAnDMonitoring\Task\MvcMusicStore\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Yana_Petrachenka\Documents\Visual Studio 2015\Projects\LoggingAnDMonitoring\Task\MvcMusicStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Yana_Petrachenka\Documents\Visual Studio 2015\Projects\LoggingAnDMonitoring\Task\MvcMusicStore\bin\Newtonsoft.Json.dll
+C:\Users\Yana_Petrachenka\Documents\Visual Studio 2015\Projects\LoggingAnDMonitoring\Task\MvcMusicStore\bin\Owin.dll
+C:\Users\Yana_Petrachenka\Documents\Visual Studio 2015\Projects\LoggingAnDMonitoring\Task\MvcMusicStore\bin\PerformanceCounterHelper.dll
+C:\Users\Yana_Petrachenka\Documents\Visual Studio 2015\Projects\LoggingAnDMonitoring\Task\MvcMusicStore\bin\PerformanceCounterHelper.Installer.exe
+C:\Users\Yana_Petrachenka\Documents\Visual Studio 2015\Projects\LoggingAnDMonitoring\Task\MvcMusicStore\bin\System.Web.Helpers.dll
+C:\Users\Yana_Petrachenka\Documents\Visual Studio 2015\Projects\LoggingAnDMonitoring\Task\MvcMusicStore\bin\System.Web.Mvc.dll
+C:\Users\Yana_Petrachenka\Documents\Visual Studio 2015\Projects\LoggingAnDMonitoring\Task\MvcMusicStore\bin\System.Web.Optimization.dll
+C:\Users\Yana_Petrachenka\Documents\Visual Studio 2015\Projects\LoggingAnDMonitoring\Task\MvcMusicStore\bin\System.Web.Razor.dll
+C:\Users\Yana_Petrachenka\Documents\Visual Studio 2015\Projects\LoggingAnDMonitoring\Task\MvcMusicStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Yana_Petrachenka\Documents\Visual Studio 2015\Projects\LoggingAnDMonitoring\Task\MvcMusicStore\bin\System.Web.WebPages.dll
+C:\Users\Yana_Petrachenka\Documents\Visual Studio 2015\Projects\LoggingAnDMonitoring\Task\MvcMusicStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\Yana_Petrachenka\Documents\Visual Studio 2015\Projects\LoggingAnDMonitoring\Task\MvcMusicStore\bin\WebGrease.dll
+C:\Users\Yana_Petrachenka\Documents\Visual Studio 2015\Projects\LoggingAnDMonitoring\Task\MvcMusicStore\bin\Antlr3.Runtime.pdb
+C:\Users\Yana_Petrachenka\Documents\Visual Studio 2015\Projects\LoggingAnDMonitoring\Task\MvcMusicStore\bin\EntityFramework.xml
+C:\Users\Yana_Petrachenka\Documents\Visual Studio 2015\Projects\LoggingAnDMonitoring\Task\MvcMusicStore\bin\EntityFramework.SqlServer.xml
+C:\Users\Yana_Petrachenka\Documents\Visual Studio 2015\Projects\LoggingAnDMonitoring\Task\MvcMusicStore\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Yana_Petrachenka\Documents\Visual Studio 2015\Projects\LoggingAnDMonitoring\Task\MvcMusicStore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Yana_Petrachenka\Documents\Visual Studio 2015\Projects\LoggingAnDMonitoring\Task\MvcMusicStore\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Yana_Petrachenka\Documents\Visual Studio 2015\Projects\LoggingAnDMonitoring\Task\MvcMusicStore\bin\Microsoft.Owin.xml
+C:\Users\Yana_Petrachenka\Documents\Visual Studio 2015\Projects\LoggingAnDMonitoring\Task\MvcMusicStore\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Yana_Petrachenka\Documents\Visual Studio 2015\Projects\LoggingAnDMonitoring\Task\MvcMusicStore\bin\Microsoft.Owin.Security.xml
+C:\Users\Yana_Petrachenka\Documents\Visual Studio 2015\Projects\LoggingAnDMonitoring\Task\MvcMusicStore\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Yana_Petrachenka\Documents\Visual Studio 2015\Projects\LoggingAnDMonitoring\Task\MvcMusicStore\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Yana_Petrachenka\Documents\Visual Studio 2015\Projects\LoggingAnDMonitoring\Task\MvcMusicStore\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Yana_Petrachenka\Documents\Visual Studio 2015\Projects\LoggingAnDMonitoring\Task\MvcMusicStore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Yana_Petrachenka\Documents\Visual Studio 2015\Projects\LoggingAnDMonitoring\Task\MvcMusicStore\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Yana_Petrachenka\Documents\Visual Studio 2015\Projects\LoggingAnDMonitoring\Task\MvcMusicStore\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Yana_Petrachenka\Documents\Visual Studio 2015\Projects\LoggingAnDMonitoring\Task\MvcMusicStore\bin\Newtonsoft.Json.xml
+C:\Users\Yana_Petrachenka\Documents\Visual Studio 2015\Projects\LoggingAnDMonitoring\Task\MvcMusicStore\bin\PerformanceCounterHelper.pdb
+C:\Users\Yana_Petrachenka\Documents\Visual Studio 2015\Projects\LoggingAnDMonitoring\Task\MvcMusicStore\bin\PerformanceCounterHelper.xml
+C:\Users\Yana_Petrachenka\Documents\Visual Studio 2015\Projects\LoggingAnDMonitoring\Task\MvcMusicStore\bin\System.Web.Helpers.xml
+C:\Users\Yana_Petrachenka\Documents\Visual Studio 2015\Projects\LoggingAnDMonitoring\Task\MvcMusicStore\bin\System.Web.Mvc.xml
+C:\Users\Yana_Petrachenka\Documents\Visual Studio 2015\Projects\LoggingAnDMonitoring\Task\MvcMusicStore\bin\System.Web.Optimization.xml
+C:\Users\Yana_Petrachenka\Documents\Visual Studio 2015\Projects\LoggingAnDMonitoring\Task\MvcMusicStore\bin\System.Web.Razor.xml
+C:\Users\Yana_Petrachenka\Documents\Visual Studio 2015\Projects\LoggingAnDMonitoring\Task\MvcMusicStore\bin\System.Web.WebPages.xml
+C:\Users\Yana_Petrachenka\Documents\Visual Studio 2015\Projects\LoggingAnDMonitoring\Task\MvcMusicStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Yana_Petrachenka\Documents\Visual Studio 2015\Projects\LoggingAnDMonitoring\Task\MvcMusicStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\Yana_Petrachenka\Documents\Visual Studio 2015\Projects\LoggingAnDMonitoring\Task\MvcMusicStore\bin\es\PerformanceCounterHelper.resources.dll
+C:\Users\Yana_Petrachenka\Documents\Visual Studio 2015\Projects\LoggingAnDMonitoring\Task\MvcMusicStore\obj\Debug\MvcMusicStore.csprojResolveAssemblyReference.cache
+C:\Users\Yana_Petrachenka\Documents\Visual Studio 2015\Projects\LoggingAnDMonitoring\Task\MvcMusicStore\obj\Debug\MvcMusicStore.dll
+C:\Users\Yana_Petrachenka\Documents\Visual Studio 2015\Projects\LoggingAnDMonitoring\Task\MvcMusicStore\obj\Debug\MvcMusicStore.pdb
+D:\Task\MvcMusicStore\bin\MvcMusicStore.dll.config
+D:\Task\MvcMusicStore\bin\MvcMusicStore.dll
+D:\Task\MvcMusicStore\bin\MvcMusicStore.pdb
+D:\Task\MvcMusicStore\bin\Antlr3.Runtime.dll
+D:\Task\MvcMusicStore\bin\EntityFramework.dll
+D:\Task\MvcMusicStore\bin\EntityFramework.SqlServer.dll
+D:\Task\MvcMusicStore\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Task\MvcMusicStore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Task\MvcMusicStore\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Task\MvcMusicStore\bin\Microsoft.Owin.dll
+D:\Task\MvcMusicStore\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Task\MvcMusicStore\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Task\MvcMusicStore\bin\Microsoft.Owin.Security.dll
+D:\Task\MvcMusicStore\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Task\MvcMusicStore\bin\Microsoft.Owin.Security.Google.dll
+D:\Task\MvcMusicStore\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Task\MvcMusicStore\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Task\MvcMusicStore\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Task\MvcMusicStore\bin\Microsoft.Web.Infrastructure.dll
+D:\Task\MvcMusicStore\bin\Newtonsoft.Json.dll
+D:\Task\MvcMusicStore\bin\Owin.dll
+D:\Task\MvcMusicStore\bin\PerformanceCounterHelper.dll
+D:\Task\MvcMusicStore\bin\PerformanceCounterHelper.Installer.exe
+D:\Task\MvcMusicStore\bin\System.Web.Helpers.dll
+D:\Task\MvcMusicStore\bin\System.Web.Mvc.dll
+D:\Task\MvcMusicStore\bin\System.Web.Optimization.dll
+D:\Task\MvcMusicStore\bin\System.Web.Razor.dll
+D:\Task\MvcMusicStore\bin\System.Web.WebPages.Deployment.dll
+D:\Task\MvcMusicStore\bin\System.Web.WebPages.dll
+D:\Task\MvcMusicStore\bin\System.Web.WebPages.Razor.dll
+D:\Task\MvcMusicStore\bin\WebGrease.dll
+D:\Task\MvcMusicStore\bin\Antlr3.Runtime.pdb
+D:\Task\MvcMusicStore\bin\EntityFramework.xml
+D:\Task\MvcMusicStore\bin\EntityFramework.SqlServer.xml
+D:\Task\MvcMusicStore\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Task\MvcMusicStore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Task\MvcMusicStore\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Task\MvcMusicStore\bin\Microsoft.Owin.xml
+D:\Task\MvcMusicStore\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Task\MvcMusicStore\bin\Microsoft.Owin.Security.xml
+D:\Task\MvcMusicStore\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Task\MvcMusicStore\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Task\MvcMusicStore\bin\Microsoft.Owin.Security.Google.xml
+D:\Task\MvcMusicStore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Task\MvcMusicStore\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Task\MvcMusicStore\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Task\MvcMusicStore\bin\Newtonsoft.Json.xml
+D:\Task\MvcMusicStore\bin\PerformanceCounterHelper.pdb
+D:\Task\MvcMusicStore\bin\PerformanceCounterHelper.xml
+D:\Task\MvcMusicStore\bin\System.Web.Helpers.xml
+D:\Task\MvcMusicStore\bin\System.Web.Mvc.xml
+D:\Task\MvcMusicStore\bin\System.Web.Optimization.xml
+D:\Task\MvcMusicStore\bin\System.Web.Razor.xml
+D:\Task\MvcMusicStore\bin\System.Web.WebPages.xml
+D:\Task\MvcMusicStore\bin\System.Web.WebPages.Deployment.xml
+D:\Task\MvcMusicStore\bin\System.Web.WebPages.Razor.xml
+D:\Task\MvcMusicStore\bin\es\PerformanceCounterHelper.resources.dll
+D:\Task\MvcMusicStore\obj\Debug\MvcMusicStore.dll
+D:\Task\MvcMusicStore\obj\Debug\MvcMusicStore.pdb
+D:\Task\MvcMusicStore\bin\NLog.config
+D:\Task\MvcMusicStore\bin\NLog.dll
+D:\Task\MvcMusicStore\bin\NLog.xml
+D:\Task\MvcMusicStore\bin\Ninject.dll
+D:\Task\MvcMusicStore\bin\Ninject.Web.Common.dll
+D:\Task\MvcMusicStore\bin\Ninject.Web.Common.WebHost.dll
+D:\Task\MvcMusicStore\bin\Ninject.Web.Mvc.dll
+D:\Task\MvcMusicStore\bin\Ninject.xml
+D:\Task\MvcMusicStore\bin\Ninject.Web.Common.xml
+D:\Task\MvcMusicStore\bin\Ninject.Web.Common.WebHost.xml
+D:\Task\MvcMusicStore\bin\Ninject.Web.Mvc.xml
